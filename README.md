@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2600&pause=800&color=3C2A21&center=true&vCenter=true&width=720&height=50&lines=I+build+what+you+see%2C+and+what+makes+it+work.;Themes%2C+custom+plugins%2C+and+pages+people+use.;Responsive%2C+considered%2C+and+ready+to+go+live." alt="A short introduction" />
 </picture>
 
-I am Sanjeevan Kalaieesan. I build websites and custom plugins, mostly with [Cohort Creative](https://www.cohort-creative.com), a branding studio in London. I stay with a site from the first layout through to the live build.
+I am Sanjeevan Kalaieesan. I build websites and custom plugins, mostly with [Cohort Creative](https://www.cohort-creative.com), a branding studio in London. Once the design is in, I take the site the rest of the way: the build, hosting, domain, and the connections it needs, then the dev SEO, Search Console, and Analytics, until it is live and working properly.
 
 ### On the front
 
