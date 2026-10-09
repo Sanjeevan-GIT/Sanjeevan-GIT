@@ -7,16 +7,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2600&pause=800&color=3C2A21&center=true&vCenter=true&width=720&height=50&lines=I+build+what+you+see%2C+and+what+makes+it+work.;Themes%2C+custom+plugins%2C+and+pages+people+use.;Hosting%2C+connections%2C+and+the+SEO+to+go+live." alt="A short introduction" />
 </picture>
 
-<p>I am Sanjeevan Kalaieesan. I build websites and custom plugins, mostly with <a href="https://www.cohort-creative.com">Cohort Creative</a>, a branding studio in London.</p>
-<p>Once the design is in, I take the site the rest of the way: the build, hosting, domain, and the connections it needs, then the dev SEO, until it is live and working properly.</p>
+<p>I build websites and custom plugins with <a href="https://www.cohort-creative.com">Cohort Creative</a>, a branding studio in London.</p>
+<p>Once the design is in, I take the site live: the build, hosting, domain, connections, and dev SEO.</p>
 
-<p><a href="#user-content-the-build">The build</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-going-live">Going live</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-ai-in-the-editor">AI in the editor</a></p>
+<p><a href="#user-content-the-build">The build</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-going-live">Going live</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-in-the-editor">In the editor</a></p>
+
+<br>
 
 ## The build
 
 ### On the front
 
-<p>Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the pages, compiled with Gulp. JavaScript when they need to move. GSAP for the motion. Swiper and Owl for sliders. Bootstrap and Tailwind for layout.</p>
+<p>Figma, Adobe XD, or Photoshop for the layout. HTML, CSS, and Sass, compiled with Gulp. JavaScript for interaction. GSAP for motion. Swiper and Owl for sliders. Bootstrap and Tailwind for layout.</p>
 
 <br>
 
@@ -31,7 +33,7 @@
 
 ### WordPress
 
-<p>Custom themes, and a plugin when the behaviour should not live in the theme. Advanced Custom Fields on most builds. Elementor, Divi, or WPBakery when the project is already in a page builder.</p>
+<p>Custom themes, and plugins when the behaviour should not live in the theme. Advanced Custom Fields on most builds. Elementor, Divi, or WPBakery when the site is already in a page builder.</p>
 
 <br>
 
@@ -42,7 +44,7 @@
 
 ### Stack and stores
 
-<p>PHP and WordPress for most sites. TypeScript, Next.js, and React for web apps, with Payload, PostgreSQL, and GraphQL. Docker when it should run the same way everywhere. Stores on WooCommerce, Shopify, Wix, and Squarespace.</p>
+<p>PHP and WordPress for most sites. TypeScript, Next.js, and React for apps, with Payload, PostgreSQL, and GraphQL. Docker when it should run the same way everywhere. WooCommerce, Shopify, Wix, and Squarespace for stores.</p>
 
 <br>
 
@@ -53,11 +55,17 @@
 <img src="https://img.shields.io/badge/Wix-111111?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
 <img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace" />
 
+<br>
+
+<hr>
+
+<br>
+
 ## Going live
 
 ### Hosting, domains, and email
 
-<p>HostPresto is our hosting. I also set up and look after domains, email, and Cloudflare.</p>
+<p>HostPresto is our hosting. I set up and look after domains, email, and Cloudflare on the hosts below.</p>
 
 <br>
 
@@ -75,7 +83,7 @@
 
 ### Connected to the site
 
-<p>Mail, CRM, payments, maps, and the server panel. Reservations in Mews and SevenRooms. A calendar that merges VRBO and Airbnb bookings into one view.</p>
+<p>Mail, CRM, payments, maps, and the server panel. Mews and SevenRooms for reservations. A calendar that merges VRBO and Airbnb bookings into one view.</p>
 
 <br>
 
@@ -107,7 +115,7 @@
 
 ### Tasks and accounts
 
-<p>Jira and Trello for the tasks. FreeAgent for the accounts.</p>
+<p>Jira and Trello for tasks. FreeAgent for accounts.</p>
 
 <br>
 
@@ -115,9 +123,15 @@
 <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 <img src="https://img.shields.io/badge/FreeAgent-6FBA2C?style=for-the-badge&logoColor=white" alt="FreeAgent" />
 
-### AI in the editor
+<br>
 
-<p>I work in Visual Studio Code and Visual Studio. I use AI in the editor: Cursor, Claude, ChatGPT, and GitHub Copilot. Gemini when I need another pass. I do not hand a project to a generator and ship whatever comes back. Clients sometimes do, in Lovable or Emergent. I read that draft and rebuild the parts that will not hold up once people are using it.</p>
+<hr>
+
+<br>
+
+## In the editor
+
+<p>Visual Studio Code and Visual Studio for most of the typing. Cursor, Claude, ChatGPT, and GitHub Copilot when a second pair of eyes helps. Gemini for another pass. I do not vibe-code a site and ship it. Clients sometimes start in Lovable or Emergent; I read that draft and rebuild what will not hold up in production.</p>
 
 <br>
 
@@ -135,6 +149,6 @@
 <hr>
 
 <p><strong>Sanjeevan Kalaieesan</strong></p>
-<p>When the client work is quiet, I build small web apps for myself.</p>
+<p>When client work is quiet, I build small web apps for myself.</p>
 
 </div>
