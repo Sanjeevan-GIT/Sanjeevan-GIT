@@ -11,11 +11,16 @@ I build websites and custom plugins. Most of that work is with [Cohort Creative]
 
 ### On the front
 
-Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the look. JavaScript and jQuery when it needs to move. GSAP when that motion needs a timeline. Bootstrap and Tailwind for layout. Pages that hold up on a phone, forms people can finish, and sliders.
+Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the look. JavaScript and jQuery when it needs to move. GSAP for timelines, with ScrollTrigger, SplitText, and Draggable. Swiper and Owl Carousel for sliders. Bootstrap and Tailwind for layout. Pages that hold up on a phone, and forms people can finish.
 
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,html,css&perline=5" alt="Figma, Adobe XD, Photoshop, HTML, CSS" />
 <img src="https://skillicons.dev/icons?i=sass,js,jquery,bootstrap,tailwind&perline=5" alt="Sass, JavaScript, jQuery, Bootstrap, Tailwind" />
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+<img src="https://img.shields.io/badge/ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="ScrollTrigger" />
+<img src="https://img.shields.io/badge/SplitText-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="SplitText" />
+<img src="https://img.shields.io/badge/Draggable-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="Draggable" />
+<img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper" />
+<img src="https://img.shields.io/badge/Owl%20Carousel-1A1A1A?style=for-the-badge&logoColor=white" alt="Owl Carousel" />
 
 ### WordPress
 
