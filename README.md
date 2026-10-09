@@ -37,7 +37,7 @@ PHP themes, and a custom plugin when the behaviour should not live in the theme.
 
 ### Connected to the site
 
-Mailchimp, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. A custom calendar that merges VRBO and Airbnb bookings into one view.
+Mailchimp, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. Mews and SevenRooms for reservations. A custom calendar that merges VRBO and Airbnb bookings into one view.
 
 <br>
 
@@ -47,7 +47,9 @@ Mailchimp, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. A custom cale
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /><br>
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
 <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
-<img src="https://img.shields.io/badge/SMTP-333333?style=for-the-badge&logoColor=white" alt="SMTP" />
+<img src="https://img.shields.io/badge/SMTP-333333?style=for-the-badge&logoColor=white" alt="SMTP" /><br>
+<img src="https://img.shields.io/badge/Mews-0B3A4A?style=for-the-badge&logoColor=white" alt="Mews" />
+<img src="https://img.shields.io/badge/SevenRooms-1A1A1A?style=for-the-badge&logoColor=white" alt="SevenRooms" />
 <img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" alt="Airbnb" />
 <img src="https://img.shields.io/badge/VRBO-0E214B?style=for-the-badge&logoColor=white" alt="VRBO" />
 
