@@ -23,6 +23,13 @@ PHP and WordPress for the sites. JavaScript and TypeScript when the interface ne
 
 I also build with Payload CMS: Next.js and React on the front, PostgreSQL for the data, GraphQL for the API, Docker when it needs to run the same way everywhere.
 
+I build stores and sites on Wix and Shopify too.
+
+<br>
+
+<img src="https://img.shields.io/badge/Wix-111111?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+
 <br>
 
 [cohort-creative.com](https://www.cohort-creative.com)
