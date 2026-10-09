@@ -16,12 +16,12 @@
 
 ### On the front
 
-<p>Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the pages. JavaScript when they need to move. GSAP for the motion. Swiper and Owl for sliders. Bootstrap and Tailwind for layout.</p>
+<p>Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the pages, compiled with Gulp. JavaScript when they need to move. GSAP for the motion. Swiper and Owl for sliders. Bootstrap and Tailwind for layout.</p>
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,html,css&perline=5" alt="Figma, Adobe XD, Photoshop, HTML, CSS" /><br>
-<img src="https://skillicons.dev/icons?i=sass,js,jquery,bootstrap,tailwind&perline=5" alt="Sass, JavaScript, jQuery, Bootstrap, Tailwind" /><br><br>
+<img src="https://skillicons.dev/icons?i=sass,js,jquery,bootstrap,tailwind,gulp&perline=6" alt="Sass, JavaScript, jQuery, Bootstrap, Tailwind, Gulp" /><br><br>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
 <img src="https://img.shields.io/badge/ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="ScrollTrigger" />
 <img src="https://img.shields.io/badge/SplitText-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="SplitText" /><br>
@@ -104,6 +104,16 @@
 <img src="https://img.shields.io/badge/Yoast%20SEO-A61E69?style=for-the-badge&logo=yoast&logoColor=white" alt="Yoast SEO" />
 <img src="https://img.shields.io/badge/Screaming%20Frog-6FBE44?style=for-the-badge&logoColor=white" alt="Screaming Frog" />
 <img src="https://img.shields.io/badge/llms.txt-111111?style=for-the-badge&logoColor=white" alt="llms.txt" />
+
+### Tasks and accounts
+
+<p>Jira and Trello for the tasks. FreeAgent for the accounts.</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+<img src="https://img.shields.io/badge/FreeAgent-6FBA2C?style=for-the-badge&logoColor=white" alt="FreeAgent" />
 
 ### AI in the editor
 
