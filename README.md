@@ -37,7 +37,7 @@ PHP themes, and a custom plugin when the behaviour should not live in the theme.
 
 ### Connected to the site
 
-Mailchimp, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. For [Villa Electra](https://www.villaelectra.com/) I built a calendar that merges VRBO and Airbnb bookings into one view.
+Mailchimp, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. A custom calendar that merges VRBO and Airbnb bookings into one view.
 
 <br>
 
