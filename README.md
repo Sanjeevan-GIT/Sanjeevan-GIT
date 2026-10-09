@@ -9,7 +9,7 @@
 
 </div>
 
-I build websites. Most of that work is with [Cohort Creative](https://www.cohort-creative.com), a branding studio in London. I stay with a site from the first layout through to the live build: the look, the code, and the way it behaves once people are using it.
+I build websites and custom plugins. Most of that work is with [Cohort Creative](https://www.cohort-creative.com), a branding studio in London. I stay with a site from the first layout through to the live build: the look, the code, and the way it behaves once people are using it.
 
 I like work I can open in a browser and feel. If something in my own day is clumsy, I write a small tool for it too.
 
@@ -19,7 +19,7 @@ I like work I can open in a browser and feel. If something in my own day is clum
 
 <img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,html,css,sass,jquery,bootstrap,mysql,nodejs,nextjs,react,postgres,graphql,docker,git&perline=6" alt="PHP, WordPress, JavaScript, TypeScript, HTML, CSS, Sass, jQuery, Bootstrap, MySQL, Node.js, Next.js, React, PostgreSQL, GraphQL, Docker, Git" />
 
-PHP and WordPress for the sites. Most of those WordPress builds use Advanced Custom Fields. I also work in the page builders: Elementor, Divi, and WPBakery. JavaScript and TypeScript when the interface needs to move. HTML, CSS, and Sass for how it looks. MySQL underneath, Git to ship it.
+PHP and WordPress for the sites. When a site needs behaviour the theme should not carry, I write a custom plugin for it. Most of those WordPress builds use Advanced Custom Fields. I also work in the page builders: Elementor, Divi, and WPBakery. JavaScript and TypeScript when the interface needs to move. HTML, CSS, and Sass for how it looks. MySQL underneath, Git to ship it.
 
 I also build with Payload CMS: Next.js and React on the front, PostgreSQL for the data, GraphQL for the API, Docker when it needs to run the same way everywhere.
 
