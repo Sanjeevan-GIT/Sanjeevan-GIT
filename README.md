@@ -67,10 +67,6 @@ Search Console, Analytics, and Tag Manager. Yoast on WordPress. I write `llms.tx
 <img src="https://img.shields.io/badge/Screaming%20Frog-6FBE44?style=for-the-badge&logoColor=white" alt="Screaming Frog" />
 <img src="https://img.shields.io/badge/llms.txt-111111?style=for-the-badge&logoColor=white" alt="llms.txt" />
 
-<br>
-
-[cohort-creative.com](https://www.cohort-creative.com)
-
 </div>
 
 When the client work is quiet, I build small web apps for myself. A repeated task gets a proper interface: state, a clear flow, and something I can open again tomorrow instead of doing it by hand.
