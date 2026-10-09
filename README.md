@@ -35,6 +35,22 @@ PHP themes, and a custom plugin when the behaviour should not live in the theme.
 <img src="https://img.shields.io/badge/Divi-7E3BD0?style=for-the-badge&logoColor=white" alt="Divi" />
 <img src="https://img.shields.io/badge/WPBakery-00C7B1?style=for-the-badge&logoColor=white" alt="WPBakery" />
 
+### Connected to the site
+
+Mailchimp, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. For [Villa Electra](https://www.villaelectra.com/) I built a calendar that merges VRBO and Airbnb bookings into one view.
+
+<br>
+
+<img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /><br>
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
+<img src="https://img.shields.io/badge/SMTP-333333?style=for-the-badge&logoColor=white" alt="SMTP" />
+<img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" alt="Airbnb" />
+<img src="https://img.shields.io/badge/VRBO-0E214B?style=for-the-badge&logoColor=white" alt="VRBO" />
+
 ### Also on the build
 
 Payload CMS with Next.js and React, PostgreSQL, and GraphQL. Docker when it should run the same way everywhere. Stores on WooCommerce, Shopify, Wix, and Squarespace.
