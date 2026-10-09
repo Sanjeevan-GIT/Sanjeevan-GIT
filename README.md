@@ -11,9 +11,9 @@ I build websites and custom plugins. Most of that work is with [Cohort Creative]
 
 ### On the front
 
-HTML, CSS, and Sass for the look. JavaScript and jQuery when it needs to move. Bootstrap for layout. Pages that hold up on a phone, forms people can finish, sliders, and motion that stays quiet.
+Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the look. JavaScript and jQuery when it needs to move. Bootstrap and Tailwind for layout. Pages that hold up on a phone, forms people can finish, sliders, and motion that stays quiet.
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,bootstrap&perline=6" alt="HTML, CSS, Sass, JavaScript, jQuery, Bootstrap" />
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,html,css,sass,js,jquery,bootstrap,tailwind&perline=5" alt="Figma, Adobe XD, Photoshop, HTML, CSS, Sass, JavaScript, jQuery, Bootstrap, Tailwind" />
 
 ### WordPress
 
