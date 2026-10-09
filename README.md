@@ -10,7 +10,7 @@
 <p>I am Sanjeevan Kalaieesan. I build websites and custom plugins, mostly with <a href="https://www.cohort-creative.com">Cohort Creative</a>, a branding studio in London.</p>
 <p>Once the design is in, I take the site the rest of the way: the build, hosting, domain, and the connections it needs, then the dev SEO, until it is live and working properly.</p>
 
-<p><a href="#the-build">The build</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#going-live">Going live</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#how-i-work">How I work</a></p>
+<p><a href="#user-content-the-build">The build</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-going-live">Going live</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-how-i-work">How I work</a></p>
 
 ## The build
 
