@@ -94,6 +94,9 @@ I use AI in the editor: Cursor, Claude, ChatGPT, and GitHub Copilot. Gemini when
 
 <br>
 
-When the client work is quiet, I build small web apps for myself. A repeated task gets a proper interface: state, a clear flow, and something I can open again tomorrow instead of doing it by hand.
+<hr>
+
+<p><strong>Sanjeevan Kalaieesan</strong></p>
+<p>When the client work is quiet, I build small web apps for myself.</p>
 
 </div>
