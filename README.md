@@ -13,12 +13,8 @@ I build websites and custom plugins. Most of that work is with [Cohort Creative]
 
 Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the look. JavaScript and jQuery when it needs to move. GSAP for timelines, with ScrollTrigger, SplitText, and Draggable. Swiper and Owl Carousel for sliders. Bootstrap and Tailwind for layout. Pages that hold up on a phone, and forms people can finish.
 
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,html,css&perline=5" alt="Figma, Adobe XD, Photoshop, HTML, CSS" />
-
-<img src="https://skillicons.dev/icons?i=sass,js,jquery,bootstrap,tailwind&perline=5" alt="Sass, JavaScript, jQuery, Bootstrap, Tailwind" />
-
-<br>
-
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,html,css&perline=5" alt="Figma, Adobe XD, Photoshop, HTML, CSS" /><br>
+<img src="https://skillicons.dev/icons?i=sass,js,jquery,bootstrap,tailwind&perline=5" alt="Sass, JavaScript, jQuery, Bootstrap, Tailwind" /><br><br>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
 <img src="https://img.shields.io/badge/ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="ScrollTrigger" />
 <img src="https://img.shields.io/badge/SplitText-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="SplitText" />
