@@ -57,7 +57,7 @@
 
 ### Hosting, domains, and email
 
-<p>HostPresto is our hosting. I also set up and look after domains and email.</p>
+<p>HostPresto is our hosting. I also set up and look after domains, email, and Cloudflare.</p>
 
 <br>
 
@@ -70,7 +70,8 @@
 <img src="https://img.shields.io/badge/123%20Reg-6C2EB9?style=for-the-badge&logoColor=white" alt="123 Reg" />
 <img src="https://img.shields.io/badge/Fasthosts-0033A0?style=for-the-badge&logoColor=white" alt="Fasthosts" />
 <img src="https://img.shields.io/badge/Strato-FF8800?style=for-the-badge&logo=strato&logoColor=white" alt="Strato" />
-<img src="https://img.shields.io/badge/DuoCall-222222?style=for-the-badge&logoColor=white" alt="DuoCall" />
+<img src="https://img.shields.io/badge/DuoCall-222222?style=for-the-badge&logoColor=white" alt="DuoCall" /><br>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 
 ### Connected to the site
 
@@ -106,10 +107,12 @@
 
 ### AI in the editor
 
-<p>I use AI in the editor: Cursor, Claude, ChatGPT, and GitHub Copilot. Gemini when I need another pass. I do not hand a project to a generator and ship whatever comes back. Clients sometimes do, in Lovable or Emergent. I read that draft and rebuild the parts that will not hold up once people are using it.</p>
+<p>I work in Visual Studio Code and Visual Studio. I use AI in the editor: Cursor, Claude, ChatGPT, and GitHub Copilot. Gemini when I need another pass. I do not hand a project to a generator and ship whatever comes back. Clients sometimes do, in Lovable or Emergent. I read that draft and rebuild the parts that will not hold up once people are using it.</p>
 
 <br>
 
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" /><br>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
