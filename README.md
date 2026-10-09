@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4F3A,100:C4A484&height=250&section=header&text=Sanjeevan%20Kalaieesan&fontSize=36&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=From%20the%20finished%20design%20to%20a%20live%20site.&descAlignY=72&descSize=17" width="100%" alt="Sanjeevan Kalaieesan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4F3A,100:C4A484&height=250&section=header&text=Sanjeevan%20Kalaieesan&fontSize=36&fontAlignY=36&fontColor=ffffff&animation=twinkling&desc=From%20the%20finished%20design%20to%20a%20live%20site.&descAlignY=64&descSize=17" width="100%" alt="Sanjeevan Kalaieesan" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2600&pause=800&color=F3E6D8&center=true&vCenter=true&width=720&height=50&lines=I+build+what+you+see%2C+and+what+makes+it+work.;Themes%2C+custom+plugins%2C+and+pages+people+use.;Hosting%2C+connections%2C+and+the+SEO+to+go+live.">
