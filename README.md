@@ -71,12 +71,14 @@ Search Console, Analytics, and Tag Manager. Yoast on WordPress. I write `llms.tx
 
 ### AI in the build
 
-I use AI while I build, not instead of building. Cursor and Claude in the editor. Gemini when I need another pass. Lovable and Emergent when a first version should exist before I take it apart and finish it properly.
+I use AI while I build, not instead of building. Cursor, Claude, ChatGPT, and GitHub Copilot in the editor. Gemini when I need another pass. Lovable and Emergent when a first version should exist before I take it apart and finish it properly.
 
 <br>
 
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Lovable-FF5A36?style=for-the-badge&logoColor=white" alt="Lovable" />
 <img src="https://img.shields.io/badge/Emergent-111111?style=for-the-badge&logoColor=white" alt="Emergent" />
