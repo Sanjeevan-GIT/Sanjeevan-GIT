@@ -23,12 +23,30 @@ PHP and WordPress for the sites. JavaScript and TypeScript when the interface ne
 
 I also build with Payload CMS: Next.js and React on the front, PostgreSQL for the data, GraphQL for the API, Docker when it needs to run the same way everywhere.
 
-I build stores and sites on Wix and Shopify too.
+I build stores and sites on Wix, Shopify, and Squarespace too.
 
 <br>
 
 <img src="https://img.shields.io/badge/Wix-111111?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
 <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace" />
+
+### Hosting, domains, and email
+
+HostPresto is our hosting. I also set up and look after hosting, domains, and email on the providers below.
+
+<br>
+
+<img src="https://img.shields.io/badge/HostPresto-6B4F3A?style=for-the-badge&logoColor=white" alt="HostPresto" />
+<img src="https://img.shields.io/badge/SiteGround-F58220?style=for-the-badge&logo=siteground&logoColor=white" alt="SiteGround" />
+<img src="https://img.shields.io/badge/Kinsta-5333ED?style=for-the-badge&logo=kinsta&logoColor=white" alt="Kinsta" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+<img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" alt="GoDaddy" />
+<img src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" alt="Namecheap" />
+<img src="https://img.shields.io/badge/123%20Reg-6C2EB9?style=for-the-badge&logoColor=white" alt="123 Reg" />
+<img src="https://img.shields.io/badge/Fasthosts-0033A0?style=for-the-badge&logoColor=white" alt="Fasthosts" />
+<img src="https://img.shields.io/badge/Strato-FF8800?style=for-the-badge&logo=strato&logoColor=white" alt="Strato" />
+<img src="https://img.shields.io/badge/DuoCall-222222?style=for-the-badge&logoColor=white" alt="DuoCall" />
 
 <br>
 
