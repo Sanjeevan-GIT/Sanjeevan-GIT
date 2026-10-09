@@ -72,3 +72,5 @@ Search Console, Analytics, and Tag Manager. Yoast on WordPress. I write `llms.tx
 [cohort-creative.com](https://www.cohort-creative.com)
 
 </div>
+
+When the client work is quiet, I build small web apps for myself. A repeated task gets a proper interface: state, a clear flow, and something I can open again tomorrow instead of doing it by hand.
