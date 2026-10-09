@@ -13,8 +13,8 @@ I build websites and custom plugins. Most of that work is with [Cohort Creative]
 
 Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the look. JavaScript and jQuery when it needs to move. GSAP when that motion needs a timeline. Bootstrap and Tailwind for layout. Pages that hold up on a phone, forms people can finish, and sliders.
 
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,html,css,sass,js,jquery,bootstrap,tailwind&perline=5" alt="Figma, Adobe XD, Photoshop, HTML, CSS, Sass, JavaScript, jQuery, Bootstrap, Tailwind" />
-
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,html,css&perline=5" alt="Figma, Adobe XD, Photoshop, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=sass,js,jquery,bootstrap,tailwind&perline=5" alt="Sass, JavaScript, jQuery, Bootstrap, Tailwind" />
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
 
 ### WordPress
