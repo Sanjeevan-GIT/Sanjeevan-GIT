@@ -71,7 +71,7 @@ Search Console, Analytics, and Tag Manager. Yoast on WordPress. I write `llms.tx
 
 ### AI in the build
 
-I use AI while I build, not instead of building. Cursor, Claude, ChatGPT, and GitHub Copilot in the editor. Gemini when I need another pass. Lovable and Emergent when a first version should exist before I take it apart and finish it properly.
+I use AI in the editor: Cursor, Claude, ChatGPT, and GitHub Copilot. Gemini when I need another pass. I do not hand a project to a generator and ship whatever comes back. Clients sometimes do, in Lovable or Emergent. I take that draft, read it, and rebuild the parts that will not hold up once real people are using it.
 
 <br>
 
