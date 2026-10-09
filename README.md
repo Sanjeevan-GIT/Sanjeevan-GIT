@@ -10,6 +10,10 @@
 <p>I am Sanjeevan Kalaieesan. I build websites and custom plugins, mostly with <a href="https://www.cohort-creative.com">Cohort Creative</a>, a branding studio in London.</p>
 <p>Once the design is in, I take the site the rest of the way: the build, hosting, domain, and the connections it needs, then the dev SEO, until it is live and working properly.</p>
 
+<p><a href="#the-build">The build</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#going-live">Going live</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#how-i-work">How I work</a></p>
+
+## The build
+
 ### On the front
 
 <p>Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the pages. JavaScript when they need to move. GSAP for the motion. Swiper and Owl for sliders. Bootstrap and Tailwind for layout.</p>
@@ -48,6 +52,8 @@
 <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 <img src="https://img.shields.io/badge/Wix-111111?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
 <img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace" />
+
+## Going live
 
 ### Hosting, domains, and email
 
@@ -97,6 +103,8 @@
 <img src="https://img.shields.io/badge/Yoast%20SEO-A61E69?style=for-the-badge&logo=yoast&logoColor=white" alt="Yoast SEO" />
 <img src="https://img.shields.io/badge/Screaming%20Frog-6FBE44?style=for-the-badge&logoColor=white" alt="Screaming Frog" />
 <img src="https://img.shields.io/badge/llms.txt-111111?style=for-the-badge&logoColor=white" alt="llms.txt" />
+
+## How I work
 
 ### AI in the build
 
