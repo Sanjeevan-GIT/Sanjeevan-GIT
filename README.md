@@ -48,6 +48,19 @@ HostPresto is our hosting. I also set up and look after hosting, domains, and em
 <img src="https://img.shields.io/badge/Strato-FF8800?style=for-the-badge&logo=strato&logoColor=white" alt="Strato" />
 <img src="https://img.shields.io/badge/DuoCall-222222?style=for-the-badge&logoColor=white" alt="DuoCall" />
 
+### SEO, on the dev side
+
+I do the technical SEO that sits in the build. Search Console, Analytics, and Tag Manager. On WordPress I set up Yoast. I write `llms.txt`, sort indexing problems, and use Screaming Frog to find what to fix.
+
+<br>
+
+<img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console" />
+<img src="https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+<img src="https://img.shields.io/badge/Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Google Tag Manager" />
+<img src="https://img.shields.io/badge/Yoast%20SEO-A61E69?style=for-the-badge&logo=yoast&logoColor=white" alt="Yoast SEO" />
+<img src="https://img.shields.io/badge/Screaming%20Frog-6FBE44?style=for-the-badge&logoColor=white" alt="Screaming Frog" />
+<img src="https://img.shields.io/badge/llms.txt-111111?style=for-the-badge&logoColor=white" alt="llms.txt" />
+
 <br>
 
 [cohort-creative.com](https://www.cohort-creative.com)
