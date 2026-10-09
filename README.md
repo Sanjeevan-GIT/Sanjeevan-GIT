@@ -1,17 +1,18 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4F3A,100:C4A484&height=200&section=header&text=Sanjeevan%20Kalaieesan&fontSize=36&fontAlignY=34&fontColor=ffffff&animation=twinkling&desc=The%20front%20of%20the%20site%2C%20and%20the%20WordPress%20under%20it.&descAlignY=62&descSize=16" width="100%" alt="Sanjeevan Kalaieesan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4F3A,100:C4A484&height=200&section=header&text=Sanjeevan%20Kalaieesan&fontSize=36&fontAlignY=34&fontColor=ffffff&animation=twinkling&desc=From%20the%20finished%20design%20to%20a%20live%20site.&descAlignY=62&descSize=16" width="100%" alt="Sanjeevan Kalaieesan" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2600&pause=800&color=F3E6D8&center=true&vCenter=true&width=720&height=50&lines=I+build+what+you+see%2C+and+what+makes+it+work.;Themes%2C+custom+plugins%2C+and+pages+people+use.;Responsive%2C+considered%2C+and+ready+to+go+live.">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2600&pause=800&color=3C2A21&center=true&vCenter=true&width=720&height=50&lines=I+build+what+you+see%2C+and+what+makes+it+work.;Themes%2C+custom+plugins%2C+and+pages+people+use.;Responsive%2C+considered%2C+and+ready+to+go+live." alt="A short introduction" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2600&pause=800&color=F3E6D8&center=true&vCenter=true&width=720&height=50&lines=I+build+what+you+see%2C+and+what+makes+it+work.;Themes%2C+custom+plugins%2C+and+pages+people+use.;Hosting%2C+connections%2C+and+the+SEO+to+go+live.">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=2600&pause=800&color=3C2A21&center=true&vCenter=true&width=720&height=50&lines=I+build+what+you+see%2C+and+what+makes+it+work.;Themes%2C+custom+plugins%2C+and+pages+people+use.;Hosting%2C+connections%2C+and+the+SEO+to+go+live." alt="A short introduction" />
 </picture>
 
-I am Sanjeevan Kalaieesan. I build websites and custom plugins, mostly with [Cohort Creative](https://www.cohort-creative.com), a branding studio in London. Once the design is in, I take the site the rest of the way: the build, hosting, domain, and the connections it needs, then the dev SEO, Search Console, and Analytics, until it is live and working properly.
+<p>I am Sanjeevan Kalaieesan. I build websites and custom plugins, mostly with <a href="https://www.cohort-creative.com">Cohort Creative</a>, a branding studio in London.</p>
+<p>Once the design is in, I take the site the rest of the way: the build, hosting, domain, and the connections it needs, then the dev SEO, until it is live and working properly.</p>
 
 ### On the front
 
-Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the look. JavaScript and jQuery when it needs to move. GSAP for timelines, with ScrollTrigger, SplitText, and Draggable. Swiper and Owl Carousel for sliders. Bootstrap and Tailwind for layout. Pages that hold up on a phone, and forms people can finish.
+<p>Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the pages. JavaScript when they need to move. GSAP for the motion. Swiper and Owl for sliders. Bootstrap and Tailwind for layout.</p>
 
 <br>
 
@@ -26,7 +27,7 @@ Layouts start in Figma, Adobe XD, or Photoshop. HTML, CSS, and Sass for the look
 
 ### WordPress
 
-PHP themes, and a custom plugin when the behaviour should not live in the theme. Most of those builds use Advanced Custom Fields. Elementor, Divi, and WPBakery when the project is already in a page builder.
+<p>Custom themes, and a plugin when the behaviour should not live in the theme. Advanced Custom Fields on most builds. Elementor, Divi, or WPBakery when the project is already in a page builder.</p>
 
 <br>
 
@@ -35,28 +36,9 @@ PHP themes, and a custom plugin when the behaviour should not live in the theme.
 <img src="https://img.shields.io/badge/Divi-7E3BD0?style=for-the-badge&logoColor=white" alt="Divi" />
 <img src="https://img.shields.io/badge/WPBakery-00C7B1?style=for-the-badge&logoColor=white" alt="WPBakery" />
 
-### Connected to the site
+### Stack and stores
 
-Mailchimp, HubSpot, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. Mews and SevenRooms for reservations. A custom calendar that merges VRBO and Airbnb bookings into one view.
-
-<br>
-
-<img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
-<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /><br>
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
-<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
-<img src="https://img.shields.io/badge/SMTP-333333?style=for-the-badge&logoColor=white" alt="SMTP" /><br>
-<img src="https://img.shields.io/badge/Mews-0B3A4A?style=for-the-badge&logoColor=white" alt="Mews" />
-<img src="https://img.shields.io/badge/SevenRooms-1A1A1A?style=for-the-badge&logoColor=white" alt="SevenRooms" />
-<img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" alt="Airbnb" />
-<img src="https://img.shields.io/badge/VRBO-0E214B?style=for-the-badge&logoColor=white" alt="VRBO" />
-
-### Also on the build
-
-Payload CMS with Next.js and React, PostgreSQL, and GraphQL. Docker when it should run the same way everywhere. Stores on WooCommerce, Shopify, Wix, and Squarespace.
+<p>PHP and WordPress for most sites. TypeScript, Next.js, and React for web apps, with Payload, PostgreSQL, and GraphQL. Docker when it should run the same way everywhere. Stores on WooCommerce, Shopify, Wix, and Squarespace.</p>
 
 <br>
 
@@ -69,7 +51,7 @@ Payload CMS with Next.js and React, PostgreSQL, and GraphQL. Docker when it shou
 
 ### Hosting, domains, and email
 
-HostPresto is our hosting. I also set up and look after hosting, domains, and email on these.
+<p>HostPresto is our hosting. I also set up and look after domains and email.</p>
 
 <br>
 
@@ -84,9 +66,28 @@ HostPresto is our hosting. I also set up and look after hosting, domains, and em
 <img src="https://img.shields.io/badge/Strato-FF8800?style=for-the-badge&logo=strato&logoColor=white" alt="Strato" />
 <img src="https://img.shields.io/badge/DuoCall-222222?style=for-the-badge&logoColor=white" alt="DuoCall" />
 
+### Connected to the site
+
+<p>Mail, CRM, payments, maps, and the server panel. Reservations in Mews and SevenRooms. A calendar that merges VRBO and Airbnb bookings into one view.</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /><br>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
+<img src="https://img.shields.io/badge/SMTP-333333?style=for-the-badge&logoColor=white" alt="SMTP" /><br>
+<img src="https://img.shields.io/badge/Mews-0B3A4A?style=for-the-badge&logoColor=white" alt="Mews" />
+<img src="https://img.shields.io/badge/SevenRooms-1A1A1A?style=for-the-badge&logoColor=white" alt="SevenRooms" />
+<img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" alt="Airbnb" />
+<img src="https://img.shields.io/badge/VRBO-0E214B?style=for-the-badge&logoColor=white" alt="VRBO" />
+
 ### SEO, on the dev side
 
-Search Console, Analytics, and Tag Manager. Yoast on WordPress. I write `llms.txt`, sort indexing problems, and use Screaming Frog to find what to fix.
+<p>Search Console, Analytics, and Tag Manager. Yoast on WordPress. I write <code>llms.txt</code>, fix indexing, and use Screaming Frog to find what is broken.</p>
 
 <br>
 
@@ -99,7 +100,7 @@ Search Console, Analytics, and Tag Manager. Yoast on WordPress. I write `llms.tx
 
 ### AI in the build
 
-I use AI in the editor: Cursor, Claude, ChatGPT, and GitHub Copilot. Gemini when I need another pass. I do not hand a project to a generator and ship whatever comes back. Clients sometimes do, in Lovable or Emergent. I take that draft, read it, and rebuild the parts that will not hold up once real people are using it.
+<p>I use AI in the editor: Cursor, Claude, ChatGPT, and GitHub Copilot. Gemini when I need another pass. I do not hand a project to a generator and ship whatever comes back. Clients sometimes do, in Lovable or Emergent. I read that draft and rebuild the parts that will not hold up once people are using it.</p>
 
 <br>
 
