@@ -115,12 +115,14 @@
 
 ### Tasks and accounts
 
-<p>Jira and Trello for tasks. FreeAgent for accounts.</p>
+<p>Slack and Teams for daily updates. Jira and Trello for tasks. FreeAgent for accounts.</p>
 
 <br>
 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+<img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" /><br>
 <img src="https://img.shields.io/badge/FreeAgent-6FBA2C?style=for-the-badge&logoColor=white" alt="FreeAgent" />
 
 <br>
