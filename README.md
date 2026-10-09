@@ -26,12 +26,13 @@ PHP themes, and a custom plugin when the behaviour should not live in the theme.
 
 ### Also on the build
 
-Payload CMS with Next.js and React, PostgreSQL, and GraphQL. Docker when it should run the same way everywhere. Stores and sites on Wix, Shopify, and Squarespace.
+Payload CMS with Next.js and React, PostgreSQL, and GraphQL. Docker when it should run the same way everywhere. Stores on WooCommerce, Shopify, Wix, and Squarespace.
 
 <img src="https://skillicons.dev/icons?i=php,wordpress,ts,nodejs,nextjs,react,mysql,postgres,graphql,docker,git&perline=6" alt="PHP, WordPress, TypeScript, Node.js, Next.js, React, MySQL, PostgreSQL, GraphQL, Docker, Git" />
 
 <br>
 
+<img src="https://img.shields.io/badge/WooCommerce-7F54B3?style=for-the-badge&logo=woo&logoColor=white" alt="WooCommerce" />
 <img src="https://img.shields.io/badge/Wix-111111?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
 <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 <img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace" />
