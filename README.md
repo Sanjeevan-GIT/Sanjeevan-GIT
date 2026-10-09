@@ -19,7 +19,7 @@ I like work I can open in a browser and feel. If something in my own day is clum
 
 <img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,html,css,sass,jquery,bootstrap,mysql,nodejs,nextjs,react,postgres,graphql,docker,git&perline=6" alt="PHP, WordPress, JavaScript, TypeScript, HTML, CSS, Sass, jQuery, Bootstrap, MySQL, Node.js, Next.js, React, PostgreSQL, GraphQL, Docker, Git" />
 
-PHP and WordPress for the sites. Most of those WordPress builds use Advanced Custom Fields. JavaScript and TypeScript when the interface needs to move. HTML, CSS, and Sass for how it looks. MySQL underneath, Git to ship it.
+PHP and WordPress for the sites. Most of those WordPress builds use Advanced Custom Fields. I also work in the page builders: Elementor, Divi, and WPBakery. JavaScript and TypeScript when the interface needs to move. HTML, CSS, and Sass for how it looks. MySQL underneath, Git to ship it.
 
 I also build with Payload CMS: Next.js and React on the front, PostgreSQL for the data, GraphQL for the API, Docker when it needs to run the same way everywhere.
 
@@ -28,6 +28,9 @@ I build stores and sites on Wix, Shopify, and Squarespace too.
 <br>
 
 <img src="https://img.shields.io/badge/ACF-00A67E?style=for-the-badge&logoColor=white" alt="Advanced Custom Fields" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+<img src="https://img.shields.io/badge/Divi-7E3BD0?style=for-the-badge&logoColor=white" alt="Divi" />
+<img src="https://img.shields.io/badge/WPBakery-00C7B1?style=for-the-badge&logoColor=white" alt="WPBakery" />
 <img src="https://img.shields.io/badge/Wix-111111?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
 <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 <img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace" />
