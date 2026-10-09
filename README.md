@@ -10,7 +10,7 @@
 <p>I am Sanjeevan Kalaieesan. I build websites and custom plugins, mostly with <a href="https://www.cohort-creative.com">Cohort Creative</a>, a branding studio in London.</p>
 <p>Once the design is in, I take the site the rest of the way: the build, hosting, domain, and the connections it needs, then the dev SEO, until it is live and working properly.</p>
 
-<p><a href="#user-content-the-build">The build</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-going-live">Going live</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-how-i-work">How I work</a></p>
+<p><a href="#user-content-the-build">The build</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-going-live">Going live</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#user-content-ai-in-the-editor">AI in the editor</a></p>
 
 ## The build
 
@@ -104,9 +104,7 @@
 <img src="https://img.shields.io/badge/Screaming%20Frog-6FBE44?style=for-the-badge&logoColor=white" alt="Screaming Frog" />
 <img src="https://img.shields.io/badge/llms.txt-111111?style=for-the-badge&logoColor=white" alt="llms.txt" />
 
-## How I work
-
-### AI in the build
+### AI in the editor
 
 <p>I use AI in the editor: Cursor, Claude, ChatGPT, and GitHub Copilot. Gemini when I need another pass. I do not hand a project to a generator and ship whatever comes back. Clients sometimes do, in Lovable or Emergent. I read that draft and rebuild the parts that will not hold up once people are using it.</p>
 
