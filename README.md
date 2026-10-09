@@ -37,11 +37,12 @@ PHP themes, and a custom plugin when the behaviour should not live in the theme.
 
 ### Connected to the site
 
-Mailchimp, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. Mews and SevenRooms for reservations. A custom calendar that merges VRBO and Airbnb bookings into one view.
+Mailchimp, HubSpot, Odoo, Instagram, Stripe, cPanel, Google Maps, and SMTP. Mews and SevenRooms for reservations. A custom calendar that merges VRBO and Airbnb bookings into one view.
 
 <br>
 
 <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /><br>
