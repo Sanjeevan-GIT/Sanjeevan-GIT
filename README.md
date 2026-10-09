@@ -17,9 +17,11 @@ I like work I can open in a browser and feel. If something in my own day is clum
 
 ### The stack I work in
 
-<img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,html,css,sass,jquery,bootstrap,mysql,nodejs,git&perline=6" alt="PHP, WordPress, JavaScript, TypeScript, HTML, CSS, Sass, jQuery, Bootstrap, MySQL, Node.js, Git" />
+<img src="https://skillicons.dev/icons?i=php,wordpress,js,ts,html,css,sass,jquery,bootstrap,mysql,nodejs,nextjs,react,postgres,graphql,docker,git&perline=6" alt="PHP, WordPress, JavaScript, TypeScript, HTML, CSS, Sass, jQuery, Bootstrap, MySQL, Node.js, Next.js, React, PostgreSQL, GraphQL, Docker, Git" />
 
 PHP and WordPress for the sites. JavaScript and TypeScript when the interface needs to move. HTML, CSS, and Sass for how it looks. MySQL underneath, Git to ship it.
+
+I also build with Payload CMS: Next.js and React on the front, PostgreSQL for the data, GraphQL for the API, Docker when it needs to run the same way everywhere.
 
 <br>
 
